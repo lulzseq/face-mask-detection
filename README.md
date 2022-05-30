@@ -1,6 +1,6 @@
 # Real-Time Face Mask Detection
 
-![](face-mask-detection.gif)
+![](src/face-mask-detection.gif)
 
 ## Info
 
